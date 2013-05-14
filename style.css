@@ -40,6 +40,7 @@ p {
 	/*
 		Padding on sides of site for mobiles
 	*/
+	min-width: 320px;
 }
 
 #demo .col {

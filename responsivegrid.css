@@ -46,6 +46,10 @@
 	width: 100%;
 	min-height: 25px;
 	background: #F0F0F0;
+	/*
+		For content/image heavy sites
+		I'd recommend removing these transitions
+	*/
 	-webkit-transition: all 0.3s ease-out;
 	-moz-transition: all 0.3s ease-out;
 	-ms-transition: all 0.3s ease-out;
